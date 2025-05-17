@@ -125,7 +125,7 @@ The application provides RESTful API endpoints:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+keshavmishra1001@gmail.com
 
 ## Contributing
 
